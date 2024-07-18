@@ -138,3 +138,4 @@ git add questionnaire.sh
 git commit -m 'add the first file'
 git push
 clear
+./questionnaire.sh
