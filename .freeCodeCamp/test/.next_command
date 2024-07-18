@@ -137,3 +137,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git add questionnaire.sh
 git commit -m 'add the first file'
 git push
+clear
