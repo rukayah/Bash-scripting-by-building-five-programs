@@ -172,3 +172,4 @@ chmod+x
 chmod+x countdown.sh
 chmod +x countdown.sh
 which bash
+./countdown.sh
