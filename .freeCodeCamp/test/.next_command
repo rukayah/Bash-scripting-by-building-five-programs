@@ -235,3 +235,4 @@ bad_command
 __vsc_prompt_cmd_original
 [[ -n bad_command ]]
 bad_command
+ls --color=auto
