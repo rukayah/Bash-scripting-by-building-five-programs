@@ -219,3 +219,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 help [[ expression ]]
 __vsc_prompt_cmd_original
 help [[
+help test
