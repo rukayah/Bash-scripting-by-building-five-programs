@@ -247,3 +247,6 @@ help [[
 [[ -x countdown.sh || 5 -le 4 ]]
 ./countdown.sh 1
 ./countdown.sh go
+git add countdown.sh questionnaire.sh
+git commit -m "create the countdown program"
+git push
